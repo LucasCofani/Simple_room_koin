@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple_room_koin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="CEP">CEP</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
